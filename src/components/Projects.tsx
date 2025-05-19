@@ -79,7 +79,7 @@ const Projects: React.FC = () => {
       description: "Created a deep learning solution using TensorFlow & PyTorch that achieved 96.5–99.5% accuracy in identifying brain tumor cells from medical imaging.",
       technologies: ["Python", "MATLAB", "R", "C++", "JavaScript", "TensorFlow", "PyTorch"],
       date: "January 2025",
-      image: "https://images.unsplash.com/photo-1559757175-7b21e7afcf5c?q=80&w=1471&auto=format&fit=crop"
+      image: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1470&auto=format&fit=crop"
     },
     {
       title: "AI Stress Detection in College Students",
