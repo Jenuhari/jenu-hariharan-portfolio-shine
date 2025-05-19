@@ -72,7 +72,7 @@ const Projects: React.FC = () => {
       description: "Developed an Arduino Uno & Bluetooth-based system with 98% accuracy for real-time monitoring and control of petrol dispensing.",
       technologies: ["C/C++", "Python", "HTML", "CSS", "JavaScript", "Arduino"],
       date: "October 2023",
-      image: "https://images.unsplash.com/photo-1498084393753-b411b2d26b34?q=80&w=1469&auto=format&fit=crop"
+      image: "https://images.unsplash.com/photo-1545050814-0a13416c9d75?q=80&w=1374&auto=format&fit=crop"
     },
     {
       title: "Brain Tumor Cell Identification",
